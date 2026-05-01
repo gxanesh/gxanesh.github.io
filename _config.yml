@@ -29,11 +29,11 @@ author:
   bio              : "Ph.D. Candidate in CS | AI, Computer Vision & Visual Localization"
   location         : "Rolla Missouri, USA"
   employer         : "Missouri S&T"
-  uri              : # URL
+  uri              : https://web.mst.edu/cswebdb/about.html
   email            : "gsapkota@mst.edu" 
 
   # Academic websites
-  academia         : # URL
+  academia         : https://web.mst.edu/cswebdb/about.html
   # arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=e2erFVUAAAAJ"
   # inspire-hep      : # URL
