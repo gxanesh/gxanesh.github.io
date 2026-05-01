@@ -29,13 +29,13 @@ Achieves significantly lower localization error compared to SLAM/VO baselines an
 
 Extending LanBLoc to operate with fewer landmarks by resolving geometric ambiguity through candidate generation and image-retrieval-based disambiguation.
 
-![LanBLoc-2l Architecture](/images/lanbloc-2l.png){: .align-center style="width: 100%;"}
+![LanBLoc-2l Architecture](/images/lanbloc-2l.png){: .align-center style="width: 50%;"}
 
 ---
 
 ## Cross-View Geo-Localization
 
-Exploring alignment between aerial and ground-level views for large-scale localization using viewpoint-invariant feature learning and coarse-to-fine retrieval.
+Exploring alignment between drone and satellite views for large-scale UAV geo-localization using viewpoint-invariant feature learning and coarse-to-fine retrieval.
 
 ---
 
