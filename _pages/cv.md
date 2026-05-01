@@ -3,7 +3,7 @@ layout: single
 title: "CV"
 permalink: /cv/
 author_profile: true
-description: "Curriculum Vitae of Ganesh Sapkota - education, research experience, publications, skills, and awards in computer science and AI."
+description: "Curriculum Vitae of Ganesh Sapkota - education, research experience, publications, skills, leadership and awards in computer science and AI."
 ---
 
 [Download CV (PDF)](/cv/Ganesh_Sapkota_CV.pdf){: .btn .btn--primary}
@@ -22,8 +22,9 @@ Ph.D. Candidate in Computer Science with 4+ years of **Army Research Laboratory 
 - Focus: GPS-Denied Visual Localization, Deep Learning, Multi-Camera Stereo Systems, Sensor Fusion
 - Relevant Coursework: Advanced ML in Computer Vision, Machine Learning, Data Mining, NLP
 
+
 **B.E., Computer Engineering** | GPA: 3.5/4.0
-*Tribhuvan University* | Nov 2013 -- Jun 2017
+*Tribhuvan University, Institute of Engineering* | Nov 2013 -- Jun 2017
 
 ---
 
