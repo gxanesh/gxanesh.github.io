@@ -14,7 +14,7 @@ author_profile: true
 
 ## Posters
 
-- **Best Poster Award (1st Place)** -- Radiogenomic Classification of Brain Tumor using MRI Sequences, **Pathways Symposium, NextGen Precision Health, Mar 2026**
+- **Best Poster Award (1st Place)** -- Radiogenomic Classification of Brain Tumor using MRI Sequences, **Pathways Symposium, NextGen Precision Health, March 2026**
 - **Best Poster Award (1st Place)** -- *SafeNav: Safe Path Navigation using Landmark Based Localization in GPS-denied Environment.* **ISC Poster Presentation, Missouri S&T, Nov 2024**
 
 
