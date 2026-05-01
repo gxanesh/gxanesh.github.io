@@ -5,6 +5,8 @@ permalink: /cv/
 author_profile: true
 ---
 
+[Download CV (PDF)](/cv/Ganesh_Sapkota_CV.pdf){: .btn .btn--primary}
+
 ## Summary
 
 Ph.D. Candidate in Computer Science with 4+ years of **Army Research Laboratory (ARL)-funded** research in GPS-denied visual localization, multi-sensor fusion, and deep learning for autonomous navigation. Published IEEE author (3 peer-reviewed venues) with end-to-end experience from algorithm prototyping to field validation.
