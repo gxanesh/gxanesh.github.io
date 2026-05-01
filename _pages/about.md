@@ -33,4 +33,4 @@ I build **robust, passive localization systems for GPS-denied environments** -- 
 
 ## Teaching
 
-Graduate Teaching Assistant & Lab Instructor for Data Structures, C++ Programming, and Cloud & Big Data Systems at Missouri S&T.
+Graduate Teaching Assistant & Lab Instructor for Data Structures, C++ Programming, Python Programming and Cloud & Big Data Systems at Missouri S&T.
