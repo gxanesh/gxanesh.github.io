@@ -20,7 +20,7 @@ Ph.D. Candidate in Computer Science with 4+ years of **Army Research Laboratory 
 - Relevant Coursework: Advanced ML in Computer Vision, Machine Learning, Data Mining, NLP
 
 **B.E., Computer Engineering** | GPA: 3.5/4.0
-*Tribhuvan University, Institute of Engineering, Nepal* | Nov 2013 -- Jun 2017
+*Tribhuvan University* | Nov 2013 -- Jun 2017
 
 ---
 
