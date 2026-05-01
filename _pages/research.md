@@ -21,7 +21,7 @@ A passive visual localization framework that replaces traditional radio-based an
 
 Achieves significantly lower localization error compared to SLAM/VO baselines and is suitable for real-time deployment.
 
-![LanBLoc Architecture](/images/lanbloc-architecture.png){: .align-center}
+![LanBLoc Architecture](/images/lanbloc-architecture.png){: .align-center style="width: 50%;"}
 
 ---
 
