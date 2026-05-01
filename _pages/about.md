@@ -3,6 +3,7 @@ layout: single
 author_profile: true
 title: "About"
 permalink: /
+description: "Ganesh Sapkota - Ph.D. candidate in Computer Science at Missouri S&T. Research in AI, computer vision, and GPS-denied visual localization."
 ---
 
 I am a Ph.D. candidate in Computer Science at Missouri University of Science and Technology, advised by Dr. Sanjay Madria. My work sits at the intersection of **AI, computer vision, and visual localization**.

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gxanesh.github.io/sitemap.xml

@@ -3,6 +3,7 @@ layout: single
 title: "Publications"
 permalink: /publications/
 author_profile: true
+description: "Peer-reviewed publications by Ganesh Sapkota in IEEE WoWMoM, IEEE AIPR, and other venues on visual localization and computer vision."
 ---
 
 ## Papers

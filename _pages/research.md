@@ -3,6 +3,7 @@ layout: archive
 title: "Research"
 permalink: /research/
 author_profile: true
+description: "Research on visual localization in GPS-denied environments, landmark-based positioning, stereo vision, and deep learning for autonomous navigation."
 ---
 
 My research focuses on **visual localization in GPS-denied environments**, combining deep learning with geometric reasoning to build accurate and deployable positioning systems using only passive sensors.

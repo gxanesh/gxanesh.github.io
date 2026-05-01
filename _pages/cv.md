@@ -3,6 +3,7 @@ layout: single
 title: "CV"
 permalink: /cv/
 author_profile: true
+description: "Curriculum Vitae of Ganesh Sapkota - education, research experience, publications, skills, and awards in computer science and AI."
 ---
 
 [Download CV (PDF)](/cv/Ganesh_Sapkota_CV.pdf){: .btn .btn--primary}
