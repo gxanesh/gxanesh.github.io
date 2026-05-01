@@ -1,6 +1,6 @@
 # gxanesh.github.io
 
-Personal academic portfolio website for **Ganesh Sapkota** — built with Jekyll and the Academic Pages template, hosted on GitHub Pages.
+Personal academic portfolio website for **Ganesh Sapkota.**
 
 **Live site:** [https://gxanesh.github.io](https://gxanesh.github.io)
 
