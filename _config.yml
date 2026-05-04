@@ -134,7 +134,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : "/images/ganesh.jpg"
+og_image                 : "ganesh.jpg"
 og_description           : "Ganesh Sapkota - Ph.D. candidate in CS at Missouri S&T. Research in AI, computer vision, and GPS-denied visual localization."
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles

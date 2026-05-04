@@ -2,6 +2,7 @@
 layout: single
 author_profile: true
 title: "About"
+seo_title: "Ganesh Sapkota — Ph.D. Candidate in Computer Science | AI, Computer Vision & Visual Localization"
 permalink: /
 description: "Ganesh Sapkota - Ph.D. candidate in Computer Science at Missouri S&T. Research in AI, computer vision, and GPS-denied visual localization."
 ---
