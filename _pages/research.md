@@ -30,7 +30,8 @@ Achieves significantly lower localization error compared to SLAM/VO baselines an
 
 Extending LanBLoc to operate with fewer landmarks by resolving geometric ambiguity through candidate generation and image-retrieval-based disambiguation.
 
-![LanBLoc-2l Architecture](/images/lanbloc-2l.png){: .align-center style="width: 50%;"}
+<img src="/images/lanbloc-2l-light.png" alt="LanBLoc-2L Architecture" class="align-center theme-light-only" style="width: 50%;" />
+<img src="/images/lanbloc-2l-dark.png" alt="LanBLoc-2L Architecture" class="align-center theme-dark-only" style="width: 50%;" />
 
 ---
 
