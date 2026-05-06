@@ -21,8 +21,8 @@ A passive visual localization framework that replaces traditional radio-based an
 
 Achieves significantly lower localization error compared to SLAM/VO baselines and is suitable for real-time deployment.
 
-<img src="/images/lanbloc-light.png" alt="LanBLoc Architecture" class="align-center theme-light-only" style="width: 70%;" />
-<img src="/images/lanbloc-dark.png" alt="LanBLoc Architecture" class="align-center theme-dark-only" style="width: 70%;" />
+<img src="/images/lanbloc-light.png" alt="LanBLoc Architecture" class="align-center theme-light-only" style="width: 100%;" />
+<img src="/images/lanbloc-dark.png" alt="LanBLoc Architecture" class="align-center theme-dark-only" style="width: 100%;" />
 
 ---
 
@@ -30,8 +30,8 @@ Achieves significantly lower localization error compared to SLAM/VO baselines an
 
 Extending LanBLoc to operate with fewer landmarks by resolving geometric ambiguity through candidate generation and image-retrieval-based disambiguation.
 
-<img src="/images/lanbloc-2l-light.png" alt="LanBLoc-2L Architecture" class="align-center theme-light-only" style="width: 50%;" />
-<img src="/images/lanbloc-2l-dark.png" alt="LanBLoc-2L Architecture" class="align-center theme-dark-only" style="width: 50%;" />
+<img src="/images/lanbloc-2l-light.png" alt="LanBLoc-2L Architecture" class="align-center theme-light-only" style="width: 100%;" />
+<img src="/images/lanbloc-2l-dark.png" alt="LanBLoc-2L Architecture" class="align-center theme-dark-only" style="width: 100%;" />
 
 ---
 
