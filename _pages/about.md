@@ -11,6 +11,8 @@ I am a Ph.D. candidate in Computer Science at Missouri University of Science and
 
 I build **robust, passive localization systems for GPS-denied environments** -- combining deep learning with geometric reasoning to enable accurate positioning without GPS or RF infrastructure. My research has applications in autonomous navigation, robotics, and defense.
 
+![Simple DDP Architecture](/images/simple-DDP-architecture.png){: .align-center style="width: 100%;"}
+
 ---
 
 ## Selected Publications
@@ -25,10 +27,10 @@ I build **robust, passive localization systems for GPS-denied environments** -- 
 
 ## Skills
 
-**Languages:** Python, C++
-**Frameworks:** PyTorch, TensorFlow
-**Tools:** Power BI, ArcGIS, Git
-**Domains:** Computer Vision, Machine Learning, Optimization
+**Languages:** Python, C/C++, Bash, R, JavaScript, SQL
+**Frameworks:** PyTorch, TensorFlow, MMCV
+**Tools:** Git/Github, Hugging Face, Linux, Docker, HPC Cluster, Shell Scripting, Jupyter, NumPy, Pandas, Matplotlib
+**Domains:** GPS-Denied Localization, Computer Vision, Machine Learning
 
 ---
 

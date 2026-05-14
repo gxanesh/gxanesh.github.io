@@ -50,7 +50,7 @@ Ph.D. Candidate in Computer Science with 4+ years of **Army Research Laboratory 
 - Led Data Structures lab sessions in C++ and delivered hands-on big data technology sessions (Hadoop MapReduce, Spark, HBase, MongoDB).
 
 **Lecturer, Computer Science**
-*Sagarmatha Engineering College, Nepal* | Feb 2019 -- Aug 2021
+*Sagarmatha Engineering College, NP* | Feb 2019 -- Aug 2021
 - Taught programming, databases, and operating systems; supervised undergraduate ML/CV capstone projects.
 
 **Software Engineer**
